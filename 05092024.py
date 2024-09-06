@@ -14,7 +14,7 @@ if n in value:
 else:
     print("the value is not present in the dictionary")
 #write a python program to print a dict where the keys are numbers between 1 and 15
-"""n=int(input("enter the dictionary size"))
+n=int(input("enter the dictionary size"))
 dict={}
 for i in range(1,n+1):
     dict[i]=i*i
@@ -47,7 +47,7 @@ s=list()
 for ele in l:
     s.append(dict1[ele])
 d1=dict(zip(l,s))
-print(d1)"""
+print(d1)
 
 
    
