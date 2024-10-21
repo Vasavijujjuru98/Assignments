@@ -1,0 +1,61 @@
+                                                   Django Introduction
+ 
+what is Django?
+Django is back end server side web framework.It is free ,open source and written in python. Django makes easier to build a web sites using python.
+we can create a complete web application using django.It is also called batteries included web framework Django because it provides built in features for everything including django admin,interfaces,default databases
+Django is especially useful database driven websites.django provide some restframework to build restAPI's for mobile application.
+why django?
+TO prepare a excellent documentation and scalability 
+django contains a huge library and features such as web scraping, machine learning, image processing,scientific computing etc.
+Django is very fast ,secure and scalable making it an attractive framework choice for thousands of developers.
+
+Features of django:
+Stability 
+Excellent documentation 
+Resolves security issues 
+Highly scalable 
+Huge library of packages 
+Utilize SEO 
+Applications of django:
+Django is a versatile web framework used in a wide range of industries and projrects. 
+By using Django many pages were developed 
+You tube, Instagram, sportify
+
+MVT(model,view,template):
+Model:
+Model is going to act as interface of your data 
+t is responsible for maintaining data 
+It is the logical data structure behind the entire application and is represented by database 
+It is a database when we send the request to it send back the data 
+View:
+It act as link between model data and template 
+It contains python logics which required to web applications 
+This view also sends response to the user when the application is used to understand briefly 
+We can say that this view.py can deal with the http response 
+Template:
+A template consists of static part of the desired HTML output as well as some special syntax describing how dynamic contant will be inserted  
+The language we use  HTML, CSS, Bootstrap, Javascript. 
+Rest framework:
+Django rest frameworks is a wrapper over the default Django framework, basically used to create APL,s of various kinds.  
+Frameworks are software that development and used by developer to build apllications  
+web frameworks:
+it is a software that is designed to support the development of web applications include 
+1.web services 
+2. web browser 
+3.web Api’s
+Rest API's:
+Having web applications or web page communicate with a cloud based server  
+REST: Representational state Transfer 
+Benefits of Rest API's:
+Simple  standard and industry used 
+There are scalable and secure
+High performance in large part due to the fact that they support caching 
+
+ 
+
+  
+
+ 
+
+ 
+
